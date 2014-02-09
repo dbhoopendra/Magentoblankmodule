@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Bd_Blankmdule>
+      <version>0.1.0</version>
+    </Bd_Blankmdule>
+  </modules>
+  <global>
+    <helpers>
+      <blankmdule>
+        <class>Bd_Blankmdule_Helper</class>
+      </blankmdule>
+    </helpers>
+  </global>
+</config> 
